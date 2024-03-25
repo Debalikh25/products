@@ -5,7 +5,7 @@
             "name" : "Zebronics Keyboard",
              "description" : "A beautiful RGB gaming Keyboard",
              "price" : "1350",
-             "image" : "no-content",
+             "image" : "https://m.media-amazon.com/images/I/81J5ij-aasL._AC_UF1000,1000_QL80_.jpg",
              "rating" : "5"
         },
 
@@ -14,7 +14,7 @@
             "name" : "Hp Mouse",
              "description" : "A beautiful RGB Mouse",
              "price" : "660",
-             "image" : "no-content",
+             "image" : "https://m.media-amazon.com/images/I/61FiLdAfXaL._AC_UF1000,1000_QL80_.jpg",
              "rating" : "4"
         }
     ]
