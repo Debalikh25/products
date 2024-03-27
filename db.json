@@ -24,7 +24,7 @@
         "description": "Flagship smartphone with 5G capability and stunning camera features.",
         "price": "899.99",
         "image": "https://example.com/samsung_galaxy_s21.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "4",
@@ -32,7 +32,7 @@
         "description": "Comfortable and stylish athletic shoes for running and everyday wear.",
         "price": "129.99",
         "image": "https://example.com/nike_air_max.jpg",
-        "rating": 5
+        "rating": "5"
     },
     {
         "id": "5",
@@ -40,7 +40,7 @@
         "description": "Nutritious whole grain quinoa for a healthy diet.",
         "price": "7.99",
         "image": "https://example.com/quinoa.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "6",
@@ -48,7 +48,7 @@
         "description": "High-quality yoga mat for comfortable and slip-free workouts.",
         "price": "29.99",
         "image": "https://example.com/yoga_mat.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "7",
@@ -56,7 +56,7 @@
         "description": "Sweatproof earphones with long battery life for active lifestyle.",
         "price": "59.99",
         "image": "https://example.com/bluetooth_earphones.jpg",
-        "rating": 5
+        "rating": "5"
     },
     {
         "id": "8",
@@ -64,7 +64,7 @@
         "description": "Nutrient-rich chia seeds for adding to smoothies and recipes.",
         "price": "12.99",
         "image": "https://example.com/chia_seeds.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "9",
@@ -72,7 +72,7 @@
         "description": "Professional-grade graphic design tablet for digital artists.",
         "price": "199.99",
         "image": "https://example.com/graphic_design_tablet.jpg",
-        "rating": 5
+        "rating": "5"
     },
     {
         "id": "10",
@@ -80,7 +80,7 @@
         "description": "Durable and eco-friendly water bottle for staying hydrated on-the-go.",
         "price": "19.99",
         "image": "https://example.com/water_bottle.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "11",
@@ -88,7 +88,7 @@
         "description": "Responsive gaming mouse with customizable buttons and RGB lighting.",
         "price": "49.99",
         "image": "https://example.com/gaming_mouse.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "12",
@@ -96,7 +96,7 @@
         "description": "Classic leather wallet with multiple card slots and cash pocket.",
         "price": "39.99",
         "image": "https://example.com/leather_wallet.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "13",
@@ -104,7 +104,7 @@
         "description": "Premium ceremonial grade matcha green tea powder for a calm focus.",
         "price": "24.99",
         "image": "https://example.com/matcha_green_tea.jpg",
-        "rating": 5
+        "rating": "5"
     },
     {
         "id": "14",
@@ -112,7 +112,7 @@
         "description": "Wireless security camera with motion detection and night vision.",
         "price": "79.99",
         "image": "https://example.com/security_camera.jpg",
-        "rating": 4
+        "rating": "4"
     },
     {
         "id": "15",
@@ -120,71 +120,7 @@
         "description": "Set of two high-density foam yoga blocks for support and stability.",
         "price": "14.99",
         "image": "https://example.com/yoga_blocks.jpg",
-        "rating": 3
-    },
-    {
-        "id": "16",
-        "name": "Women's Running Shorts",
-        "description": "Lightweight and breathable shorts for running and workouts.",
-        "price": "24.99",
-        "image": "https://example.com/running_shorts.jpg",
-        "rating": 4
-    },
-    {
-        "id": "17",
-        "name": "Compact Blender",
-        "description": "Powerful blender for making smoothies, shakes, and sauces.",
-        "price": "39.99",
-        "image": "https://example.com/blender.jpg",
-        "rating": 5
-    },
-    {
-        "id": "18",
-        "name": "Digital Kitchen Scale",
-        "description": "Accurate and easy-to-use kitchen scale for precise cooking measurements.",
-        "price": "19.99",
-        "image": "https://example.com/kitchen_scale.jpg",
-        "rating": 4
-    },
-    {
-        "id": "19",
-        "name": "Men's Dress Shirt",
-        "description": "Classic dress shirt for formal occasions and professional settings.",
-        "price": "49.99",
-        "image": "https://example.com/dress_shirt.jpg",
-        "rating": 5
-    },
-    {
-        "id": "20",
-        "name": "Electric Toothbrush",
-        "description": "Sonic electric toothbrush for superior dental hygiene and plaque removal.",
-        "price": "39.99",
-        "image": "https://example.com/toothbrush.jpg",
-        "rating": 3
-    },
-    {
-        "id": "21",
-        "name": "Resistance Bands Set",
-        "description": "Set of five resistance bands for strength training and physical therapy.",
-        "price": "29.99",
-        "image": "https://example.com/resistance_bands.jpg",
-        "rating": 4
-    },
-    {
-        "id": "22",
-        "name": "Aromatherapy Essential Oils",
-        "description": "Pure essential oils for aromatherapy and relaxation.",
-        "price": "17.99",
-        "image": "https://example.com/essential_oils.jpg",
-        "rating": 5
-    },
-    {
-        "id": "23",
-        "name": "Cotton Bath Towel Set",
-        "description": "Soft and absorbent cotton bath towels for everyday use.",
-        "price": "34.99",
-        "image": "https://example.com/bath_towels.jpg",
-        "rating": 4
+        "rating": "3"
     }
     ]
 }
