@@ -81,46 +81,8 @@
         "price": "19.99",
         "image": "https://example.com/water_bottle.jpg",
         "rating": "4"
-    },
-    {
-        "id": "11",
-        "name": "Wireless Gaming Mouse",
-        "description": "Responsive gaming mouse with customizable buttons and RGB lighting.",
-        "price": "49.99",
-        "image": "https://example.com/gaming_mouse.jpg",
-        "rating": "4"
-    },
-    {
-        "id": "12",
-        "name": "Leather Wallet",
-        "description": "Classic leather wallet with multiple card slots and cash pocket.",
-        "price": "39.99",
-        "image": "https://example.com/leather_wallet.jpg",
-        "rating": "4"
-    },
-    {
-        "id": "13",
-        "name": "Organic Matcha Green Tea",
-        "description": "Premium ceremonial grade matcha green tea powder for a calm focus.",
-        "price": "24.99",
-        "image": "https://example.com/matcha_green_tea.jpg",
-        "rating": "5"
-    },
-    {
-        "id": "14",
-        "name": "Smart Home Security Camera",
-        "description": "Wireless security camera with motion detection and night vision.",
-        "price": "79.99",
-        "image": "https://example.com/security_camera.jpg",
-        "rating": "4"
-    },
-    {
-        "id": "15",
-        "name": "Yoga Block Set",
-        "description": "Set of two high-density foam yoga blocks for support and stability.",
-        "price": "14.99",
-        "image": "https://example.com/yoga_blocks.jpg",
-        "rating": "3"
     }
+   
+
     ]
 }
