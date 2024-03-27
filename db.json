@@ -16,6 +16,175 @@
              "price" : "660",
              "image" : "data:image/jpeg;base64,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",
              "rating" : "4"
-        }
+        },
+
+        {
+        "id": "3",
+        "name": "Samsung Galaxy S21",
+        "description": "Flagship smartphone with 5G capability and stunning camera features.",
+        "price": "899.99",
+        "image": "https://example.com/samsung_galaxy_s21.jpg",
+        "rating": 4
+    },
+    {
+        "id": "4",
+        "name": "Nike Air Max Shoes",
+        "description": "Comfortable and stylish athletic shoes for running and everyday wear.",
+        "price": "129.99",
+        "image": "https://example.com/nike_air_max.jpg",
+        "rating": 5
+    },
+    {
+        "id": "5",
+        "name": "Organic Quinoa",
+        "description": "Nutritious whole grain quinoa for a healthy diet.",
+        "price": "7.99",
+        "image": "https://example.com/quinoa.jpg",
+        "rating": 4
+    },
+    {
+        "id": "6",
+        "name": "Fitness Yoga Mat",
+        "description": "High-quality yoga mat for comfortable and slip-free workouts.",
+        "price": "29.99",
+        "image": "https://example.com/yoga_mat.jpg",
+        "rating": 4
+    },
+    {
+        "id": "7",
+        "name": "Wireless Bluetooth Earphones",
+        "description": "Sweatproof earphones with long battery life for active lifestyle.",
+        "price": "59.99",
+        "image": "https://example.com/bluetooth_earphones.jpg",
+        "rating": 5
+    },
+    {
+        "id": "8",
+        "name": "Organic Chia Seeds",
+        "description": "Nutrient-rich chia seeds for adding to smoothies and recipes.",
+        "price": "12.99",
+        "image": "https://example.com/chia_seeds.jpg",
+        "rating": 4
+    },
+    {
+        "id": "9",
+        "name": "Graphic Design Tablet",
+        "description": "Professional-grade graphic design tablet for digital artists.",
+        "price": "199.99",
+        "image": "https://example.com/graphic_design_tablet.jpg",
+        "rating": 5
+    },
+    {
+        "id": "10",
+        "name": "Stainless Steel Water Bottle",
+        "description": "Durable and eco-friendly water bottle for staying hydrated on-the-go.",
+        "price": "19.99",
+        "image": "https://example.com/water_bottle.jpg",
+        "rating": 4
+    },
+    {
+        "id": "11",
+        "name": "Wireless Gaming Mouse",
+        "description": "Responsive gaming mouse with customizable buttons and RGB lighting.",
+        "price": "49.99",
+        "image": "https://example.com/gaming_mouse.jpg",
+        "rating": 4
+    },
+    {
+        "id": "12",
+        "name": "Leather Wallet",
+        "description": "Classic leather wallet with multiple card slots and cash pocket.",
+        "price": "39.99",
+        "image": "https://example.com/leather_wallet.jpg",
+        "rating": 4
+    },
+    {
+        "id": "13",
+        "name": "Organic Matcha Green Tea",
+        "description": "Premium ceremonial grade matcha green tea powder for a calm focus.",
+        "price": "24.99",
+        "image": "https://example.com/matcha_green_tea.jpg",
+        "rating": 5
+    },
+    {
+        "id": "14",
+        "name": "Smart Home Security Camera",
+        "description": "Wireless security camera with motion detection and night vision.",
+        "price": "79.99",
+        "image": "https://example.com/security_camera.jpg",
+        "rating": 4
+    },
+    {
+        "id": "15",
+        "name": "Yoga Block Set",
+        "description": "Set of two high-density foam yoga blocks for support and stability.",
+        "price": "14.99",
+        "image": "https://example.com/yoga_blocks.jpg",
+        "rating": 3
+    },
+    {
+        "id": "16",
+        "name": "Women's Running Shorts",
+        "description": "Lightweight and breathable shorts for running and workouts.",
+        "price": "24.99",
+        "image": "https://example.com/running_shorts.jpg",
+        "rating": 4
+    },
+    {
+        "id": "17",
+        "name": "Compact Blender",
+        "description": "Powerful blender for making smoothies, shakes, and sauces.",
+        "price": "39.99",
+        "image": "https://example.com/blender.jpg",
+        "rating": 5
+    },
+    {
+        "id": "18",
+        "name": "Digital Kitchen Scale",
+        "description": "Accurate and easy-to-use kitchen scale for precise cooking measurements.",
+        "price": "19.99",
+        "image": "https://example.com/kitchen_scale.jpg",
+        "rating": 4
+    },
+    {
+        "id": "19",
+        "name": "Men's Dress Shirt",
+        "description": "Classic dress shirt for formal occasions and professional settings.",
+        "price": "49.99",
+        "image": "https://example.com/dress_shirt.jpg",
+        "rating": 5
+    },
+    {
+        "id": "20",
+        "name": "Electric Toothbrush",
+        "description": "Sonic electric toothbrush for superior dental hygiene and plaque removal.",
+        "price": "39.99",
+        "image": "https://example.com/toothbrush.jpg",
+        "rating": 3
+    },
+    {
+        "id": "21",
+        "name": "Resistance Bands Set",
+        "description": "Set of five resistance bands for strength training and physical therapy.",
+        "price": "29.99",
+        "image": "https://example.com/resistance_bands.jpg",
+        "rating": 4
+    },
+    {
+        "id": "22",
+        "name": "Aromatherapy Essential Oils",
+        "description": "Pure essential oils for aromatherapy and relaxation.",
+        "price": "17.99",
+        "image": "https://example.com/essential_oils.jpg",
+        "rating": 5
+    },
+    {
+        "id": "23",
+        "name": "Cotton Bath Towel Set",
+        "description": "Soft and absorbent cotton bath towels for everyday use.",
+        "price": "34.99",
+        "image": "https://example.com/bath_towels.jpg",
+        "rating": 4
+    }
     ]
 }
